@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda]! 👋
+# Halo, Saya Luigi Iram Rangi! 👋
 
 Saya seorang mahasiswa Sistem Informasi sekaligus pengembang web independen. Saya senang merancang antarmuka UI/UX yang rapi dan membangun ekosistem digital yang fungsional.
 
